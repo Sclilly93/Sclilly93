@@ -1,4 +1,4 @@
-## Hi there, welcome to my GitHub Profile!  My name is Seth Lilly, I'm currently enrolled at WGU completing my bachelor's degree of science in Software Engineering. Thanks for following me in my journey as a Automation Test Engineer. 👋
+## Hi there, welcome to my GitHub Profile!  My name is Seth Lilly, I'm currently enrolled at WGU completing my bachelor's degree of science in Software Engineering. Thanks for following me on my journey as a Automation Test Engineer. 👋
 
 <!--
 **Sclilly93/Sclilly93**
